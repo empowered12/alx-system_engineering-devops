@@ -1,1 +1,1 @@
-Display current directory contents
+Betty in my first directory
