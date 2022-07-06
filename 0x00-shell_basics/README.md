@@ -1,1 +1,1 @@
-print working directory with hidden files
+There is no place like home
